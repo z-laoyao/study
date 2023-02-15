@@ -6,5 +6,6 @@ public class Study02 {
         System.out.println("kasjdfajsd");
         System.out.println("dddd22222222d");
         System.out.println(1221);
+        // sadfas2323423423423423423423423423
     }
 }
