@@ -8,5 +8,6 @@ public class Study02 {
         System.out.println(1221);
         System.out.println(1 + 2);
         // jasdfjaiosdjfoiasjdoifjaoisdjfioaj;sodifa
+        // jfqijioqieqjwijqfio
     }
 }
